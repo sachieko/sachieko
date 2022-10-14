@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sachieko
 - 👀 I’m interested in data science and web development.
-- 🌱 I’m currently learning Web Development and SQL/MySQL. I am currently going through Lighthouse Labs' web dev bootcamp!
-- 💞️ I’m not looking to collaborate on anything right now
+- 🦜 I’m a full stack web developer with experience using Javascript, Ruby on Rails, React, and I also know a bit of Python.
+- 💞️ I’m looking to collaborate on projects, and if it's Typescript I'd like the opportunity to work more with that language!
+
+I have a background in statistics and secondary math education, so I can also crunch some numbers.
 
 <!---
 sachieko/sachieko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
