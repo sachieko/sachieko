@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachieko
-- 👀 I’m interested in data science and web development.
+- 👀 I’m interested in data science and web development. If you'd like to collaborate on a project, feel free to reach out!
 - 🦜 I’m a full stack web developer with experience using Javascript, Ruby on Rails, React, and I also know a bit of Python.
 - 💞️ I’m looking to collaborate on projects, and if it's Typescript I'd like the opportunity to work more with that language!
 
