@@ -8,8 +8,9 @@ You may know me cause of my work on a couple TTRPG community projects related to
 My special areas of expertise and study outside of Computer Science are Mathematics and Statistics, and Japanese Language and Culture.
 
 CS Area
-**Languages: Typescript, C, Java, C#, Javascript, Bash, HTML, CSS, SQL, Ruby..
-Frameworks/Contexts: React, Vite, React Native, Android Studio, PostgresSQL, MySQL, Cloudflare Workers, Netlify Functions, Google Cloud Platform..** 
+**Languages: Typescript, C, Java, C#, Javascript, Bash, HTML, CSS, SQL, Ruby..**
+
+**Frameworks/Contexts: React, Vite, React Native, Android Studio, PostgresSQL, MySQL, Cloudflare Workers, Netlify Functions, Google Cloud Platform..** 
 <!---
 sachieko/sachieko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
